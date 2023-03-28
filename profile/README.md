@@ -7,6 +7,7 @@ We're Perth's largest makerspace.
 * [airconControl](https://github.com/Perth-Artifactory/airconControl) - A timer to turn off the band room aircon
 * [doorBotCode](https://github.com/Perth-Artifactory/doorBotCode) - The live code running our front door
 * [doorbot_1.3](https://github.com/Perth-Artifactory/doorbot_1.3) - Next iteration of our door control
+* [queryBot](https://github.com/Perth-Artifactory/queryBot) - A `gpt-3.5-turbo` powered chatbot with access to our events calendar and some web pages. Primarily used for responding to queries from the public.
 * [theme-google-cal-embed](https://github.com/Perth-Artifactory/theme-google-cal-embed) - A tool to apply formatting to embedded google calendars
 * [tidyauth](https://github.com/Perth-Artifactory/tidyauth) - A wrapper for interactions with the TidyHQ API
 * [webcam-scripts](https://github.com/Perth-Artifactory/webcam-scripts) - Scripts to generate our [webcam feed](https://space.artifactory.org.au)
