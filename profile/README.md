@@ -8,9 +8,11 @@ We're Perth's largest makerspace.
 * [doorBotCode](https://github.com/Perth-Artifactory/doorBotCode) - The live code running our front door
 * [doorbot_1.3](https://github.com/Perth-Artifactory/doorbot_1.3) - Next iteration of our door control
 * [queryBot](https://github.com/Perth-Artifactory/queryBot) - A `gpt-3.5-turbo` powered chatbot with access to our events calendar and some web pages. Primarily used for responding to queries from the public.
+* [storageTickets](https://github.com/Perth-Artifactory/storageTickets) - QoL improvements for people leaving projects at the space. Primarily used on our foyer kiosk.
 * [theme-google-cal-embed](https://github.com/Perth-Artifactory/theme-google-cal-embed) - A tool to apply formatting to embedded google calendars
 * [tidyauth](https://github.com/Perth-Artifactory/tidyauth) - A wrapper for interactions with the TidyHQ API
-* [webcam-scripts](https://github.com/Perth-Artifactory/webcam-scripts) - Scripts to generate our [webcam feed](https://space.artifactory.org.au)
+* [util](https://github.com/Perth-Artifactory/util) - These (typically) one file scripts solve various little problems around the space but don't warrant a repo.
+* [webcam-scripts](https://github.com/Perth-Artifactory/webcam-scripts) - Scripts to generate and manage our [webcam feed](https://space.artifactory.org.au)
 
 ## Member projects
 
