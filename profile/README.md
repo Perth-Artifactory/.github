@@ -24,7 +24,7 @@ We're Perth's largest makerspace.
 * [pledgeBot](https://github.com/Perth-Artifactory/pledgeBot) - Fundraising via Slack
 * [secretaryBot](https://github.com/Perth-Artifactory/secretaryBot) - Automation of Secretary tasks
 * [spaceapi-interface](https://github.com/Perth-Artifactory/spaceapi-interface) - Interaction with SpaceAPI
-* [twittinator](https://github.com/Perth-Artifactory/twittinator) - A scrolling LED display that supports messages from Twitter
+* [slack-scroll](https://github.com/Perth-Artifactory/slack-scroll) - A scrolling LED display that supports messages from Twitter
 
 
 ## Governance
