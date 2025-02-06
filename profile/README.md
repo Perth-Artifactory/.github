@@ -40,3 +40,7 @@ We're Perth's makerspace.
 * [Docs](https://github.com/Perth-Artifactory/Docs) - IT Documentation.
 * [Governing Documents](https://github.com/Perth-Artifactory/governance) - Version control for some of our governing documents.
 * [Branding](https://github.com/Perth-Artifactory/branding) - Branding resources.
+
+## Archived projects
+
+Archived projects can be found [here](https://github.com/PerArt-Archive).
