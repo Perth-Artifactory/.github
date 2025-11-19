@@ -4,7 +4,7 @@ We're Perth's makerspace.
 
 ## Physical things
 
-* [Door Bot](https://github.com/Perth-Artifactory/doorbot_1.3) - Access control system.
+* [Door Bot](https://github.com/Perth-Artifactory/doorbot) - Access control system.
 * [Vending Machine](https://github.com/Perth-Artifactory/Vending-Machine) - Code that runs our vending machine.
 * [Slack Scroll](https://github.com/Perth-Artifactory/slack-scroll) - A scrolling LED matrix fed from Slack messages.
 * [Drawing Matrix](https://github.com/Perth-Artifactory/artifactory-draw-matrix) - LED matrix that can be drawn on through a web interface.
