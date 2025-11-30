@@ -29,7 +29,6 @@ We're Perth's makerspace.
 * [Training Tracker](https://github.com/Perth-Artifactory/trainingTracker) - Tracks tool sign offs and inductions.
 * [Taiga Sync](https://github.com/Perth-Artifactory/taiga_sync) - A Slack interface for [Taiga](https://taiga.io/).
 * [Query Bot](https://github.com/Perth-Artifactory/queryBot) - A Slack interface for ChatGPT with Artifactory resources.
-* [Pledge Bot](https://github.com/Perth-Artifactory/pledgeBot) - A self-service crowd funding service.
 * [File Butler](https://github.com/Perth-Artifactory/fileButler) - Upload files from Slack to a file server.
 * [Treasurer Bot](https://github.com/Perth-Artifactory/treasurerBot) - Invoice reminders.
 
